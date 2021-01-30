@@ -1,0 +1,3 @@
+# demo
+
+self destructing page!
